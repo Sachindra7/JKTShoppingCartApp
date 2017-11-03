@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">JKT Shopping Cart App</string>
+    <string name="button8"> Display all items</string>
+    <string name="button4"> ADD TO CART</string>
+    <string name="button5"> SEARCH</string>
+    <string name="button9"> Search items</string>
+    <string name="button10"> Add items to list</string>
+    <string name="button11"> Add items to cart</string>
+    <string name="button12"> Dispaly cart</string>
+    <string name="button13"> Issue items</string>
+    <string name="button14"> Exit</string>
+    <string name="button15"> Display all items</string>
+    <string name="facebook_app_id">132175240769372</string>
+    <string name="textView3"> Enter Item Code</string>
+    <string name="textView2"> Enter Item Code</string>
+    <string name="textView4"> Enter Item Name</string>
+    <string name="textView5"> Enter Price</string>
+    <string name="textView6"> Enter Quantity</string>
+    <string name="button2"> Submit</string>
+    <string name="textView7"> Enter the code of the Item</string>
+    <string name="textView8"> Enter number of Items</string>
+    <string name="textView9"> Enter the code of item to search</string>
+    <string name="textView21"> Code</string>
+    <string name="textView22"> Name</string>
+    <string name="textView23"> Rate</string>
+    <string name="textView24"> Quantity</string>
+    <string name="textView25"> Code</string>
+    <string name="textView26"> Name</string>
+    <string name="textView27"> Rate</string>
+    <string name="textView28"> Quantity</string>
+    <string name="button3"> Submit</string>
+</resources>
